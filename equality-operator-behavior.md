@@ -22,7 +22,7 @@ class A {
 }
 ```
 
-This allows to create two instances of the ``A`` class
+Next we will create three instances of the ``A`` class
 
 ```PowerShell
 $a1 = [A]::new(1)
